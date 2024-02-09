@@ -1,7 +1,4 @@
 # Homework 2
-{: .no_toc }
-Due 11:59PM Feb 6, 2024
-{: .fs-6 .fw-300 }
 
 There are two files with coding problems. Read each file and complete the sections marked **TODO**.
 Although you can complete the problems in any order, it will be most convenient to follow the order
